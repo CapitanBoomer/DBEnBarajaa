@@ -1,0 +1,7 @@
+{
+  "name": "DBBaraja",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
